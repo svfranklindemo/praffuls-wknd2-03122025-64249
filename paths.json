@@ -1,16 +1,16 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json",
-    "/content/wknd-universal.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/praffuls-Projects/language-masters/en:/",
+    "/content/praffuls-Projects/language-masters/en/:/",
+    "/content/praffuls-Projects/language-masters/en/:/en/",
+    "/content/praffuls-Projects/configuration:/.helix/config.json",
+    "/content/praffuls-Projects/metadata:/metadata.json",
+    "/content/praffuls-Projects/redirects:/redirects.json",
+    "/content/praffuls-Projects/placeholders:/placeholders.json",
+    "/content/praffuls-Projects.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/praffuls-Projects/",
+    "/content/dam/praffuls-Projects/"
   ]
 }
